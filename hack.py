@@ -1,0 +1,20 @@
+# FAKE DISCORD VZLOM BY SGYSH3NKA
+import time
+
+print("Hacking random user")
+time.sleep(5)
+print("Checking.")
+time.sleep(0.5)
+print("Checking..")
+time.sleep(0.5)
+print("Checking...")
+time.sleep(0.5)
+print("Checking.")
+time.sleep(0.5)
+print("Checking..")
+time.sleep(0.5)
+print("Checking...")
+time.sleep(0.5)
+print("Hacked!")
+print("login=error")
+print("password=api is down")
